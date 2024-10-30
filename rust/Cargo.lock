@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "atomu-probability"
+name = "probability"
 version = "0.1.0"
